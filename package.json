@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-famoco-laser-reader.git",
-    "baseUrl": "https://github.com/github_account/react-native-famoco-laser-reader"
+    "url": "git+https://github.com/ChristopheBelpaire/react-native-famoco-laser-reader.git",
+    "baseUrl": "https://github.com/ChristopheBelpaire/react-native-famoco-laser-reader"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Christophe Belpaire",
+    "email": "christophe.belpaire@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
